@@ -1,0 +1,13 @@
+{
+  "type" : "object",
+  "properties" : {
+    "volumeOfCup" : {
+      "type" : "string",
+      "enum" : [ "GRANDE", "BIG", "MEDIUM", "SMALL" ]
+    },
+    "typeOfCoffee" : {
+      "type" : "string",
+      "enum" : [ "CAPPUCCINO", "GLACE", "ESPRESSO" ]
+    }
+  }
+}

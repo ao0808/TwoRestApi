@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CoffeeHouse" />
+        <module name="CoffeeMachineRestApi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="task11" target="11" />
+      <module name="task11CoffeeHouse" target="11" />
+      <module name="task11CoffeeMachine" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CoffeeHouse" options="-parameters" />
+      <module name="CoffeeMachineRestApi" options="-parameters" />
+      <module name="task11" options="-parameters" />
+      <module name="task11CoffeeHouse" options="-parameters" />
+      <module name="task11CoffeeMachine" options="-parameters" />
+    </option>
+  </component>
+</project>

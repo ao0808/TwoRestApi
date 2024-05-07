@@ -1,0 +1,7 @@
+ru/sbrf/apiCoffeeMachine/controller/Controller.class
+ru/sbrf/apiCoffeeMachine/dto/Dto$TypeOfCoffee.class
+ru/sbrf/apiCoffeeMachine/configuration/Config.class
+ru/sbrf/apiCoffeeMachine/dto/Dto$VolumeOfCup.class
+ru/sbrf/apiCoffeeMachine/model/CoffeeOrder.class
+ru/sbrf/apiCoffeeMachine/dto/Dto.class
+ru/sbrf/apiCoffeeMachine/Application.class
